@@ -1,0 +1,5 @@
+Great.  The rules actually performs better, which is helpful for my demo.  I'd like to now use sklearn random forest as the model.  AND I'd like to do some feature engineering.  I'd be interested in considering the following but please add more if you think of some
+
+Prompt 4.1 (edit)
+
+Could you adjust to plot area under the curve also?

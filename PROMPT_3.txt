@@ -1,0 +1,1 @@
+Alright let's make yet a new notebook that just does Logistic regression but does a 5-fold train test split, holding out a different 20 % every time.  Please print similar outputs but no need to compare techniques this time obviously.

@@ -1,0 +1,4 @@
+
+Great!!  Now in a new notebook, I'd like to train a linear/logistic regression (sklearn library please) for a classification or regression approach and compare them.  No feature transformations, just using the CSV > dataframe as it is.
+
+Please output and make plots to show the accuracy, precision, recall, F1

@@ -1,0 +1,4 @@
+Ah great, the Random Forest solution is the best and tuned is even slightly higher.  Check these out and help me interpret.
+One particular callout is the rules approach is an angled line.  Is that because of the simple deterministic behavior?
+
+(attached last two graphs)
